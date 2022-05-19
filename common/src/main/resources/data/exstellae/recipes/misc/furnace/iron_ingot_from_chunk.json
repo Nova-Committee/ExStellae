@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "exstellae:iron_ore_chunk"
+  },
+  "result": "minecraft:iron_ingot"
+}

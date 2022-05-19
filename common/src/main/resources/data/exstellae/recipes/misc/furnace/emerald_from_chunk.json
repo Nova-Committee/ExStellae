@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "exstellae:emerald_ore_chunk"
+  },
+  "result": "minecraft:emerald"
+}

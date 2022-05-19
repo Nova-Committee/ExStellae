@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WXW",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "X": {
+      "item": "exstellae:mesh"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "exstellae:dark_oak_sieve"
+  }
+}

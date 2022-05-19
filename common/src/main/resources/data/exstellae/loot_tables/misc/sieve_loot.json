@@ -1,0 +1,166 @@
+{
+  "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "exstellae:emerald_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 65,
+            "name": "exstellae:copper_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 35,
+            "name": "exstellae:iron_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 23,
+            "name": "exstellae:gold_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "exstellae:diamond_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 150,
+            "name": "exstellae:dust"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 100,
+            "name": "exstellae:flint_piece"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "exstellae:emerald_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 65,
+            "name": "exstellae:copper_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 35,
+            "name": "exstellae:iron_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 23,
+            "name": "exstellae:gold_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "exstellae:diamond_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 150,
+            "name": "exstellae:dust"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 100,
+            "name": "exstellae:flint_piece"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "exstellae:emerald_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 65,
+            "name": "exstellae:copper_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 35,
+            "name": "exstellae:iron_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 23,
+            "name": "exstellae:gold_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "exstellae:diamond_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 150,
+            "name": "exstellae:dust"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 100,
+            "name": "exstellae:flint_piece"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "exstellae:emerald_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 65,
+            "name": "exstellae:copper_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 35,
+            "name": "exstellae:iron_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 23,
+            "name": "exstellae:gold_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "exstellae:diamond_ore_piece"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 150,
+            "name": "exstellae:dust"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 100,
+            "name": "exstellae:flint_piece"
+          }
+        ]
+      }
+    ]
+  }
+  

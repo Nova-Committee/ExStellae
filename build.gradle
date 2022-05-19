@@ -1,3 +1,5 @@
+import java.text.SimpleDateFormat
+
 plugins {
     id "architectury-plugin" version "3.4-SNAPSHOT"
     id "dev.architectury.loom" version "0.11.0-SNAPSHOT" apply false
@@ -16,13 +18,18 @@ subprojects {
     }
 }
 
+static def buildTime() {
+    def df = new SimpleDateFormat("yyyyMMddHHmm")
+    df.setTimeZone(TimeZone.getTimeZone("UTC"))
+    return df.format(new Date())
+}
+
 allprojects {
     apply plugin: "java"
     apply plugin: "architectury-plugin"
     apply plugin: "maven-publish"
 
-    archivesBaseName = rootProject.archives_base_name
-    version = rootProject.mod_version
+    version = rootProject.mod_version + "-" + rootProject.mod_channel + "+build." + buildTime()
     group = rootProject.maven_group
 
     repositories {

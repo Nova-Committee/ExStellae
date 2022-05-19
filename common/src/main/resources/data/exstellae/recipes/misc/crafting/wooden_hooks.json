@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " X",
+    " X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "exstellae:wooden_hook"
+  }
+}

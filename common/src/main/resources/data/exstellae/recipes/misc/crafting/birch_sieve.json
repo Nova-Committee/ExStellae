@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WXW",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:birch_slab"
+    },
+    "X": {
+      "item": "exstellae:mesh"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "exstellae:birch_sieve"
+  }
+}

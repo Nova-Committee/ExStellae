@@ -1,4 +1,30 @@
 {
   "itemGroup.exstellae.main": "Ex Stellae",
-  "item.exstellae.copper_ore_chunk": "Copper Ore Chunk"
+
+  "item.exstellae.copper_ore_chunk": "Copper Ore Chunk",
+  "item.exstellae.iron_ore_chunk": "Iron Ore Chunk",
+  "item.exstellae.gold_ore_chunk": "Gold Ore Chunk",
+  "item.exstellae.diamond_ore_chunk": "Diamond Ore Chunk",
+  "item.exstellae.emerald_ore_chunk": "Emerald Ore Chunk",
+
+  "item.exstellae.copper_ore_piece": "Copper Ore Piece",
+  "item.exstellae.iron_ore_piece": "Iron Ore Piece",
+  "item.exstellae.gold_ore_piece": "Gold Ore Piece",
+  "item.exstellae.diamond_ore_piece": "Diamond Ore Piece",
+  "item.exstellae.emerald_ore_piece": "Emerald Ore Piece",
+  "item.exstellae.flint_piece": "Flint Piece",
+  "item.exstellae.dust": "Dust",
+
+  "item.exstellae.mesh": "Mesh",
+  "item.exstellae.fiber_string": "Fiber String",
+  "item.exstellae.leaves": "Leaves",
+
+  "item.exstellae.wooden_hook": "Wooden Hook",
+
+  "block.exstellae.oak_sieve": "Oak Sieve",
+  "block.exstellae.acacia_sieve": "Acacia Sieve",
+  "block.exstellae.birch_sieve": "Birch Sieve",
+  "block.exstellae.dark_oak_sieve": "Dark Oak Sieve",
+  "block.exstellae.spruce_sieve": "Spruce Sieve",
+  "block.exstellae.jungle_sieve": "Jungle Sieve"
 }

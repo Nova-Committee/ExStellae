@@ -8,11 +8,13 @@
     "pkstDev"
   ],
   "license": "MIT License",
-  "icon": "assets/exstellae/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
       "committee.nova.exstellae.fabric.ExStellaeFabric"
+    ],
+    "client": [
+      "committee.nova.exstellae.fabric.ExStellaeFabricClient"
     ]
   },
   "depends": {

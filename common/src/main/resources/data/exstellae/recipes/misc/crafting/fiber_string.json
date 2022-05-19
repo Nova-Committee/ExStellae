@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "exstellae:leaves"
+    }
+  },
+  "result": {
+    "item": "exstellae:fiber_string"
+  }
+}

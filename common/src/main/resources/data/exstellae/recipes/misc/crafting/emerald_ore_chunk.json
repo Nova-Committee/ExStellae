@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "exstellae:emerald_ore_piece"
+    }
+  },
+  "result": {
+    "item": "exstellae:emerald_ore_chunk"
+  }
+}
