@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+#issueTrackerURL = ""
+license = "MIT License"
+
+[[mods]]
+modId = "exstellae"
+version = "${version}"
+displayName = "Ex Stellae"
+authors = "pkstDev"
+description = '''
+Gather resources from nothingness.
+'''
+#logoFile = ""
+
+[[dependencies.exstellae]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.exstellae]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.exstellae]]
+modId = "architectury"
+mandatory = true
+versionRange = "[4.4.59,)"
+ordering = "AFTER"
+side = "BOTH"

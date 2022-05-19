@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "exstellae",
+  "version": "${version}",
+  "name": "Ex Stellae",
+  "description": "Gather resources from nothingness.",
+  "authors": [
+    "pkstDev"
+  ],
+  "license": "MIT License",
+  "icon": "assets/exstellae/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "committee.nova.exstellae.fabric.ExStellaeFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.18.2",
+    "architectury": ">=4.4.59"
+  }
+}
