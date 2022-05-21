@@ -13,7 +13,9 @@
   "item.exstellae.diamond_ore_piece": "Diamond Ore Piece",
   "item.exstellae.emerald_ore_piece": "Emerald Ore Piece",
   "item.exstellae.flint_piece": "Flint Piece",
-  "item.exstellae.dust": "Dust",
+  "item.exstellae.pure_sand_dust": "Pure Sand Dust",
+  "item.exstellae.pure_red_sand_dust": "Pure Red Sand Dust",
+  "item.exstellae.small_cobble": "Small Cobble",
 
   "item.exstellae.mesh": "Mesh",
   "item.exstellae.fiber_string": "Fiber String",

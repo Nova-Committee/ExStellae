@@ -1,0 +1,9 @@
+{
+  "type": "exstellae:sieve",
+  "input": {
+    "item": "minecraft:red_sand"
+  },
+  "lootTable": "exstellae:misc/sieve_loot",
+  "outputItem": "exstellae:pure_red_sand_dust",
+  "outputAmount": "1"
+}

@@ -1,0 +1,32 @@
+{
+  "itemGroup.exstellae.main": "繁星之凝",
+
+  "item.exstellae.copper_ore_chunk": "铜矿石块",
+  "item.exstellae.iron_ore_chunk": "铁矿石块",
+  "item.exstellae.gold_ore_chunk": "金矿石块",
+  "item.exstellae.diamond_ore_chunk": "钻石矿石块",
+  "item.exstellae.emerald_ore_chunk": "绿宝石矿石块",
+
+  "item.exstellae.copper_ore_piece": "铜矿石碎片",
+  "item.exstellae.iron_ore_piece": "铁矿石碎片",
+  "item.exstellae.gold_ore_piece": "金矿石碎片",
+  "item.exstellae.diamond_ore_piece": "钻石矿石碎片",
+  "item.exstellae.emerald_ore_piece": "绿宝石矿石碎片",
+  "item.exstellae.flint_piece": "燧石碎片",
+  "item.exstellae.pure_sand_dust": "纯沙尘",
+  "item.exstellae.pure_red_sand_dust": "纯红沙尘",
+  "item.exstellae.small_cobble": "小石子",
+
+  "item.exstellae.mesh": "筛网",
+  "item.exstellae.fiber_string": "纤维绳",
+  "item.exstellae.leaves": "叶子",
+
+  "item.exstellae.wooden_hook": "木钩",
+
+  "block.exstellae.oak_sieve": "橡木筛子",
+  "block.exstellae.acacia_sieve": "金合欢木筛子",
+  "block.exstellae.birch_sieve": "白桦木筛子",
+  "block.exstellae.dark_oak_sieve": "深色橡木筛子",
+  "block.exstellae.spruce_sieve": "云杉木筛子",
+  "block.exstellae.jungle_sieve": "丛林木筛子"
+}

@@ -11,17 +11,17 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 65,
+            "weight": 75,
             "name": "exstellae:copper_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 35,
+            "weight": 48,
             "name": "exstellae:iron_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 23,
+            "weight": 30,
             "name": "exstellae:gold_ore_piece"
           },
           {
@@ -31,12 +31,7 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 150,
-            "name": "exstellae:dust"
-          },
-          {
-            "type": "minecraft:item",
-            "weight": 100,
+            "weight": 175,
             "name": "exstellae:flint_piece"
           }
         ]
@@ -51,17 +46,17 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 65,
+            "weight": 75,
             "name": "exstellae:copper_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 35,
+            "weight": 48,
             "name": "exstellae:iron_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 23,
+            "weight": 30,
             "name": "exstellae:gold_ore_piece"
           },
           {
@@ -71,12 +66,7 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 150,
-            "name": "exstellae:dust"
-          },
-          {
-            "type": "minecraft:item",
-            "weight": 100,
+            "weight": 175,
             "name": "exstellae:flint_piece"
           }
         ]
@@ -91,17 +81,17 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 65,
+            "weight": 75,
             "name": "exstellae:copper_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 35,
+            "weight": 48,
             "name": "exstellae:iron_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 23,
+            "weight": 30,
             "name": "exstellae:gold_ore_piece"
           },
           {
@@ -111,12 +101,7 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 150,
-            "name": "exstellae:dust"
-          },
-          {
-            "type": "minecraft:item",
-            "weight": 100,
+            "weight": 175,
             "name": "exstellae:flint_piece"
           }
         ]
@@ -131,17 +116,17 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 65,
+            "weight": 75,
             "name": "exstellae:copper_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 35,
+            "weight": 48,
             "name": "exstellae:iron_ore_piece"
           },
           {
             "type": "minecraft:item",
-            "weight": 23,
+            "weight": 30,
             "name": "exstellae:gold_ore_piece"
           },
           {
@@ -151,12 +136,7 @@
           },
           {
             "type": "minecraft:item",
-            "weight": 150,
-            "name": "exstellae:dust"
-          },
-          {
-            "type": "minecraft:item",
-            "weight": 100,
+            "weight": 175,
             "name": "exstellae:flint_piece"
           }
         ]

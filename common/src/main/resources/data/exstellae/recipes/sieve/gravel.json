@@ -1,0 +1,9 @@
+{
+  "type": "exstellae:sieve",
+  "input": {
+    "item": "minecraft:gravel"
+  },
+  "lootTable": "exstellae:misc/sieve_loot",
+  "outputItem": "exstellae:small_cobble",
+  "outputAmount": "2"
+}

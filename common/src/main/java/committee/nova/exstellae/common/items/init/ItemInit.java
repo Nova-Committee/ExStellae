@@ -40,7 +40,11 @@ public class ItemInit {
             new Item(new Item.Settings().group(ItemInit.GROUP)));
     public static final RegistrySupplier<Item> FLINT_PIECE = ITEMS.register("flint_piece", () ->
             new Item(new Item.Settings().group(ItemInit.GROUP)));
-    public static final RegistrySupplier<Item> DUST = ITEMS.register("dust", () ->
+    public static final RegistrySupplier<Item> PURE_SAND_DUST = ITEMS.register("pure_sand_dust", () ->
+            new Item(new Item.Settings().group(ItemInit.GROUP)));
+    public static final RegistrySupplier<Item> PURE_RED_SAND_DUST = ITEMS.register("pure_red_sand_dust", () ->
+            new Item(new Item.Settings().group(ItemInit.GROUP)));
+    public static final RegistrySupplier<Item> SMALL_COBBLE = ITEMS.register("small_cobble", () ->
             new Item(new Item.Settings().group(ItemInit.GROUP)));
 
     public static final RegistrySupplier<Item> LEAVES = ITEMS.register("leaves", () ->
